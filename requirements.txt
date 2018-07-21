@@ -1,0 +1,5 @@
+flask
+requests
+gunicorn
+watson-developer-cloud
+# add new packages one per each line
